@@ -1,6 +1,8 @@
 
 # react-native-toast
 
+这是如何使用 react-native-create-library 库来创建 react-native module 的学习demo。
+
 ## Getting started
 
 `$ npm install react-native-toast --save`
